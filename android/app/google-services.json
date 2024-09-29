@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952684436380",
+    "project_id": "vitabear-v1",
+    "storage_bucket": "vitabear-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952684436380:android:521e3540c799ccd63b4659",
+        "android_client_info": {
+          "package_name": "com.samsacoder.vitabearsiparishatti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0fn74jtG2IVbO4GEQmfqN5q0AKnamnzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
